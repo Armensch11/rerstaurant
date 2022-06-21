@@ -242,6 +242,7 @@ margin-left: 30px;
 .history-holder {
     display: flex;
     justify-content: space-between;
+    
 }
 .history-images {
     position: relative;
@@ -270,4 +271,35 @@ left: -418px;
     z-index: 0;
     top: -50px;
     left: -206px;
+}
+.black-block {
+    margin-top: 200px;
+    background-image: url(./images/Rectangle\ 38.jpg);
+    padding: 80px 0;
+}
+.black-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 80px;
+    margin-right: 80px;
+   
+}
+.left-title {
+    font-family: 'Tinos', serif;
+    font-size: 52px;
+    font-weight: 400;
+    color: rgba(214, 126, 52, 1)
+}
+.left-text {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 20px;
+}
+.title-container {
+    width: 650px;
+}
+.text-container {
+    width: 650px;
 }
