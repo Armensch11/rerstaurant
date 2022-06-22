@@ -303,3 +303,54 @@ left: -418px;
 .text-container {
     width: 650px;
 }
+
+.dishes-header {
+    text-align: center;
+    font-family: 'Tinos', serif;
+    font-size: 52px;
+    font-weight: 400;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    
+}
+.dishes-header span {
+    font-family: 'Tinos', serif;
+    font-size: 52px;
+    font-weight: 400;
+    color: rgba(214, 126, 52, 1)
+}
+
+.dish-image-container {
+    display: flex;
+    justify-content: center;
+}
+.main-dish {
+    margin-right: 30px;
+    height: 474px;
+}
+.example {
+    display: flex;
+    justify-content: center;
+}
+.example img {
+    margin-right: 20px;
+}
+.dish-examples {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 474px;
+   
+}
+.example div {
+    font-family: 'Tinos', serif;
+    font-size: 26px;
+    font-weight: 400;
+    margin-right: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+ 
+}
