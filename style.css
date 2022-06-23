@@ -331,9 +331,12 @@ left: -418px;
 .example {
     display: flex;
     justify-content: center;
+    height: 33%;
 }
 .example img {
     margin-right: 20px;
+   
+   
 }
 .dish-examples {
     display: flex;
